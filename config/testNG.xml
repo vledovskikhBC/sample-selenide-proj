@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Practice Suite">
+    <test name="Test VK">
+        <classes>
+            <class name="ui.Tests"/>
+        </classes>
+    </test>
+</suite>
